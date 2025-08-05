@@ -163,3 +163,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/15f3182e-57fb-4ddf-b523-84abfb61cb08" />
 
+<img width="600" height="583" alt="Image" src="https://github.com/user-attachments/assets/c2e91e06-b3ce-4cd5-87eb-11520005a260" />
