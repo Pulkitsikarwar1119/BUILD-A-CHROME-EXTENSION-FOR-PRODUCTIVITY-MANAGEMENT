@@ -151,3 +151,15 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9e03e7fd-9da6-4165-ac1b-09cbc24d1dda" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c90d9b0-068a-4746-9f40-65004ba6c761" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7f86dbbf-e564-4e42-a4c0-f385e97d1a13" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe9f932a-8260-452d-b944-2e182cc02446" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8f8ddb98-1575-4ff0-ba8e-dc3279ace289" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/15f3182e-57fb-4ddf-b523-84abfb61cb08" />
+
